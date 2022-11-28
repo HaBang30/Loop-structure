@@ -1,0 +1,27 @@
+#input{
+    height: 25px;
+    border: 2px solid red;
+}
+#ouput{
+    height: 25px;
+    border: 2px solid red;
+}
+#btn {
+    border: none;
+    width: 60px;
+    height: 30px; 
+}
+#cancel {
+    border: none;
+    width: 60px;
+    height: 30px;   
+}
+#btn:hover {
+    background-color: blue;
+    color: whitesmoke;
+}
+#cancel:hover {
+    background-color: blue;
+    color: whitesmoke;
+   
+}
